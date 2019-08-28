@@ -1,5 +1,5 @@
-# MERN CRUD
-
+# BASIC REACT CRUD APP
+ 
 A simple crud application using reactjs. It's use react router, react notification, bootstrap etc.
 
 ## Instructions
@@ -26,7 +26,7 @@ npm start
 
 Run the *development server* for React.
 ```bash
-REACT_APP_API_URL=http://localhost:3000 npm start
+REACT_APP_API_URL= http://localhost:3000
 ```
 
 To make a production build, simply run on *react-src* folder via the terminal.
